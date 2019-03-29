@@ -12,7 +12,9 @@ targeting laptops.
    
    bitcoin: 1A2CcDwWJ9MLuZaGUy5izNTZdWVnrQ9hWh
    
-   bitcoin QR Code: ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/maste/send_bitcoinQR.png?raw=true)
+   bitcoin QR Code: 
+   
+   ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/send_bitcoinQR.png?raw=true)
 
 
 * **Note For Developers**: code version is  first working version (maybe 1.01). but **executable is always up to date**

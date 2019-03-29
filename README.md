@@ -17,10 +17,10 @@ targeting laptops.
    ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/send_bitcoinQR.png?raw=true)
 
 
-* **Note For Developers**: code version is  first working version (maybe 1.01). but **executable is always up to date**
-
-* **Note For VirusAlert**: 
+* **Note For VirusAlert, Developers**: 
    * dont open issues about virus total trojan alert etc. if you dont trust dont use it.   
+
+   *code version is  first working version (maybe 1.01). but **executable is always up to date**
    * old code published here is free to play.
    * uptodate code is my private intellectual property. coding effort made without any money, wont be put here.
    

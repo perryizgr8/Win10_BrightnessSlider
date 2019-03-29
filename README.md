@@ -7,21 +7,10 @@ targeting laptops.
   * .net4 framework.  (win7 may need to install)
   * for ddci monitors, ([make sure  ddci is enabled on monitor menu](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/enable%20ddc-ci.jpg?raw=true)
 )
-  * if it doesn't work:
-
-    a) try install/update your graphic driver  
-    b) try enable ddci on monitor
-
--------------------
-* **DONATE**: 
-   
-   bitcoin: 1A2CcDwWJ9MLuZaGUy5izNTZdWVnrQ9hWh
-   
-   bitcoin QR Code: 
-   
-   ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/send_bitcoinQR.png?raw=true)
-
---------------------
+  * if it doesn't work: (make sure of this)
+  
+    a)  install/update your graphic driver  
+    b)  enable ddci on monitor
 
 * **Note For VirusAlert, Developers**: 
    * dont open issues about virus total trojan alert etc. if you dont trust dont use it.   

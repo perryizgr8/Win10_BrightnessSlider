@@ -7,6 +7,10 @@ targeting laptops.
   * .net4 framework.  (win7 may need to install)
   * for ddci monitors, ([make sure  ddci is enabled on monitor menu](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/enable%20ddc-ci.jpg?raw=true)
 )
+  * if it doesn't work:
+
+    a) try install/update your graphic driver  
+    b) try enable ddci on monitor
 
 * **DONATE**: 
    
@@ -20,7 +24,7 @@ targeting laptops.
 * **Note For VirusAlert, Developers**: 
    * dont open issues about virus total trojan alert etc. if you dont trust dont use it.   
 
-   *code version is  first working version (maybe 1.01). but **executable is always up to date**
+   * code version is  first working version (maybe 1.01). but **executable is always up to date**
    * old code published here is free to play.
    * uptodate code is my private intellectual property. coding effort made without any money, wont be put here.
    
@@ -50,10 +54,7 @@ targeting laptops.
 * if slider working. but suddenly (you plug/unplug monitor/MirrorScreen in any way) then screen act up weird for second.
  you CAN get error while trying to change birghtness, you gotta press "Detect monitor".  
  
-* if it doesn't work:
 
-  a) try install/update your graphic driver  
-  b) try enable ddci on monitor
  
 #### ChangeLog
 

@@ -7,18 +7,26 @@ targeting laptops.
   * .net4 framework.  (win7 may need to install)
   * for ddci monitors, ([make sure  ddci is enabled on monitor menu](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/enable%20ddc-ci.jpg?raw=true)
 )
-  * if it doesn't work: (make sure of this)
+  *  make sure you do install/update your graphic driver 
   
-    a)  install/update your graphic driver  
-    b)  enable ddci on monitor
-
 * **Note For VirusAlert, Developers**: 
    * dont open issues about virus total trojan alert etc. if you dont trust dont use it.   
 
    * code version is  first working version (maybe 1.01). but **executable is always up to date**
    * old code published here is free to play.
    * uptodate code is my private intellectual property. coding effort made without any money, wont be put here.
-   
+
+-------------------
+* **DONATE**: 
+
+   bitcoin: 1A2CcDwWJ9MLuZaGUy5izNTZdWVnrQ9hWh
+
+   bitcoin QR Code: 
+
+   ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/send_bitcoinQR.png?raw=true)
+
+--------------------
+
 **Download Link**   [All Versions](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)
 
 

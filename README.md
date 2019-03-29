@@ -8,6 +8,13 @@ targeting laptops.
   * for ddci monitors, ([make sure  ddci is enabled on monitor menu](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/enable%20ddc-ci.jpg?raw=true)
 )
 
+* **DONATE**: 
+   
+   bitcoin: 1A2CcDwWJ9MLuZaGUy5izNTZdWVnrQ9hWh
+   
+   bitcoin QR Code: ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/maste/send_bitcoinQR.png?raw=true)
+
+
 * **Note For Developers**: code version is  first working version (maybe 1.01). but **executable is always up to date**
 
 * **Note For VirusAlert**: 

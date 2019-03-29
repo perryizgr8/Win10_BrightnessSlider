@@ -12,6 +12,7 @@ targeting laptops.
     a) try install/update your graphic driver  
     b) try enable ddci on monitor
 
+-------------------
 * **DONATE**: 
    
    bitcoin: 1A2CcDwWJ9MLuZaGUy5izNTZdWVnrQ9hWh
@@ -20,6 +21,7 @@ targeting laptops.
    
    ![alt text](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/send_bitcoinQR.png?raw=true)
 
+--------------------
 
 * **Note For VirusAlert, Developers**: 
    * dont open issues about virus total trojan alert etc. if you dont trust dont use it.   

@@ -57,6 +57,9 @@ targeting laptops.
  
 #### ChangeLog
 
+v1.7.8
+ * fixed: parseError with nonUsa culture at dxvaMon.setbrightness
+ 
 v1.7.7
  * prevent log error
  * added: hide sliderform even when clicked on taskbar icon 

@@ -57,6 +57,9 @@ targeting laptops.
  
 #### ChangeLog
 
+v1.7.9
+ * fixed: when taskbar is autohide And at the top of screen, the slider is  still at the bottom
+
 v1.7.8
  * fixed: parseError with nonUsa culture at dxvaMon.setbrightness
  

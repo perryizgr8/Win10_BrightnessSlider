@@ -57,6 +57,10 @@ targeting laptops.
  
 #### ChangeLog
 
+
+v1.7.10 [experimental] (if you have a problem with this, use 1.7.9)
+ * added: jump trackbar value to click.
+
 v1.7.9
  * fixed: when the autohide taskbar is on and the taskbar is at the top of screen,the slider is still at the bottom
 

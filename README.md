@@ -53,34 +53,11 @@ targeting laptops.
 * if slider working. but suddenly (you plug/unplug monitor/MirrorScreen in any way) then screen act up weird for second.
  you CAN get error while trying to change birghtness, you gotta press "Detect monitor".  
 
- 
-#### ChangeLog
 
-log will be on: [release page](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  
+#### ChangeLog 
+at [release page](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  
 
 
-v1.7.7
- * prevent log error
- * added: hide sliderform even when clicked on taskbar icon 
- * fixed: in ltr system(ie arabic) taskbar is at other side . 
- * added: taskbar icon tooltip-text shows pct of all sliders ( after first  form_show) 
 
-v1.7.5
- * fixing: null check  richscreen.getbrighness>get_physicalmonitor()
- * added:  sun image near each slider shows name on hover
- * fixed: ``(ddci problem )slider doesnt change birghtness at first time, i have to rightclick trayIcon > Press "detect Monitor"``  
-* added:  Check For Updates , shows in rightclick menu.
-* fixed: new monitor populator
-* fixed: ddci brightness displaying -1 (may not work on all ddci monitors)
-* fixed: blurry text high dpi  
-* fixed: ``i got 3 screens, but i have 5 sliders``. (slider popualtion method changed )
- 
-v1.04 [most stable]
-* added: author page to  menu item  that shows version no.
-* trying to fix: fallback doesnt handle management not supported exception.
-* added: seperately change brightness of multiple monitors.
-* added: supports setting Brighness on ddc/ci Monitors(at startup, it may show -1,  )
-* fixed: slider showing itself on second screen onhide 
-* fixed: popup stays under taskbar, if taskbar is autoHiding  
-* fixed: slider wasn't positioning itself according to taskbar position (Top Or Bottom Or Left Or Right of Screen)
+
 

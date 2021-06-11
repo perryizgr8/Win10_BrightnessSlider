@@ -52,21 +52,13 @@ targeting laptops.
 #### NOTES   
 * if slider working. but suddenly (you plug/unplug monitor/MirrorScreen in any way) then screen act up weird for second.
  you CAN get error while trying to change birghtness, you gotta press "Detect monitor".  
- 
 
  
 #### ChangeLog
 
+log will be on: [release page](https://github.com/blackholeearth/Win10_BrightnessSlider/releases)  
 
-v1.7.10 [experimental] (if you have a problem with this, use 1.7.9)
- * added: jump trackbar value to click.
 
-v1.7.9
- * fixed: when the autohide taskbar is on and the taskbar is at the top of screen,the slider is still at the bottom
-
-v1.7.8
- * fixed: parseError with nonUsa culture at dxvaMon.setbrightness
- 
 v1.7.7
  * prevent log error
  * added: hide sliderform even when clicked on taskbar icon 

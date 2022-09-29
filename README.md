@@ -3,6 +3,8 @@ this app puts a Monitor Brightness icon to on Taskbar Tray. So you can access it
 targeting laptops. 
 
 * **supported os**:  win7 , win8 , win10 
+ 
+
 * **requirements**: 
   * .net4.6.2 framework.  (win7 may need to install)
   * for ddci monitors, ([make sure  ddci is enabled on monitor menu](https://github.com/blackholeearth/Win10_BrightnessSlider/blob/master/enable%20ddc-ci.jpg?raw=true)

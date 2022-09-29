@@ -9,7 +9,7 @@ targeting laptops.
 )
   *  make sure you do install/update your graphic driver 
   
-* **Note For VirusAlert, Developers**: 
+* **Note For VirusAlert, Source Code**: 
    * dont open issues about virus total trojan alert etc. if you dont trust dont use it.   
 
    * code version is  first working version (maybe 1.01). but **executable is always up to date**

@@ -198,14 +198,19 @@ namespace Win10_BrightnessSlider
             {
                 using (ManagementObjectCollection objectCollection = searcher.Get())
                 {
-                    foreach (ManagementObject mObj in objectCollection)
+                    try
                     {
-                        var br_obj = mObj.Properties["CurrentBrightness"].Value;
+                        foreach (ManagementObject mObj in objectCollection)
+                        {
+                            var br_obj = mObj.Properties["CurrentBrightness"].Value;
 
-                        int br = 0;
-                        int.TryParse(br_obj+"", out br);
-                        return br;
-                        break;
+                            int br = 0;
+                            int.TryParse(br_obj + "", out br);
+                            return br;
+                        }
+                    } catch(System.Management.ManagementException ex)
+                    {
+                        return 0;
                     }
                 }
             }
